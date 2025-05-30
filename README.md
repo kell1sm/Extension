@@ -1,4 +1,4 @@
-Project Setup Guide
+### Project Setup Guide
 
 ## PLangRec Model
 The PLangRec model has its own GitHub repository with installation instructions. Follow the steps outlined in the official documentation: [PLangRec Web API Installation](https://github.com/ComputationalReflection/PLangRec/blob/main/web-api.md)
