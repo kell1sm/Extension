@@ -1,0 +1,4 @@
+scikit-learn==1.0.1
+gensim==4.2.0
+Flask
+flask_cors
